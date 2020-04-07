@@ -1,0 +1,12 @@
+
+IMPLEMENTATION LIB_i
+REFINES LIB
+    SEES CTX
+
+OPERATIONS
+    vv <-- lib_next(p1) =
+    BEGIN
+        skip
+    END
+
+ END

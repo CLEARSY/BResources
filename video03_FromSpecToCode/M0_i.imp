@@ -1,0 +1,34 @@
+
+IMPLEMENTATION M0_i
+REFINES M0
+SEES CTX
+CONCRETE_VARIABLES
+    status
+//LOCAL_OPERATIONS
+//    vv <-- next(p1) =
+//    PRE p1: STATUS THEN
+//        vv :(vv : STATUS & not(vv = p1))
+//    END
+IMPORTS
+    LIB
+INITIALISATION
+    status := S0
+OPERATIONS
+//    vv <-- next(p1) =
+//    BEGIN
+//        IF p1 = e0 THEN
+//            vv := e1 
+//        ELSIF p1 = e1 THEN
+//            vv := e2
+//        ELSIF p1 = e2 THEN
+//            vv := e3
+//        ELSIF p1 = e3 THEN
+//            vv := e0
+//        END    
+//    END;
+    
+    operate =
+    BEGIN
+        status <-- lib_next(status) 
+    END
+END

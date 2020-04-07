@@ -1,0 +1,9 @@
+MACHINE
+    CTX
+SETS
+    STATUS = {e0, e1, e2, e3}
+CONSTANTS
+    S0
+PROPERTIES
+    S0 : STATUS
+END
