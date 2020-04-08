@@ -47,7 +47,7 @@ Below are the videos (planned to be) recorded:
 - [ ] Introduction to the CSSP CS0
 - [ ] Specifics of a CSSP CS0 project
 - [ ] Introduction to the system modeling
-- [ ] Strcturing system models
+- [ ] Structuring system models
 
 
 ## Licence
