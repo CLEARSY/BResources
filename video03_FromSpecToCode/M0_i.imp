@@ -2,6 +2,7 @@
 IMPLEMENTATION M0_i
 REFINES M0
 SEES CTX
+    IMPORTS LIB
 CONCRETE_VARIABLES
     status
 //LOCAL_OPERATIONS
@@ -9,8 +10,7 @@ CONCRETE_VARIABLES
 //    PRE p1: STATUS THEN
 //        vv :(vv : STATUS & not(vv = p1))
 //    END
-IMPORTS
-    LIB
+
 INITIALISATION
     status := S0
 OPERATIONS
@@ -29,6 +29,6 @@ OPERATIONS
     
     operate =
     BEGIN
-        status <-- lib_next(status) 
+        status <-- LIB_next(status) 
     END
 END
