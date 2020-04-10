@@ -19,7 +19,7 @@ Below are the videos (planned to be, but not sorted) recorded:
 - [x] Marketing (00) 
 - [x] B in a nutshell (01)
 - [x] Create a project (02)
-- [ ] From spec to code (03)
+- [x] From spec to code (03)
 - [ ] Archive and restore project
 - [ ] Extending the tool with extension points
 - [ ] Tool most important directories
