@@ -31,7 +31,7 @@ Below are the videos (planned to be, but not sorted) recorded:
 - [ ] The mathematical rule editor
 - [ ] The proof tactic editor
 - [ ] Software modeling versus system modeling
-- [ ] Generating C code
+- [ ] Generating C code for component and project
 - [ ] Using C translation profiles
 - [ ] Introduction to the proof
 - [ ] Introduction to the interactive proof
