@@ -25,6 +25,8 @@ Below are the videos (planned to be, but not sorted) recorded:
 - [ ] Tool most important directories
 - [ ] Using libraries
 - [ ] Using definitions
+- [ ] Using local operations
+- [ ] Using records
 - [ ] The model editor
 - [ ] The mathematical rule editor
 - [ ] The proof tactic editor
