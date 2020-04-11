@@ -15,21 +15,23 @@ Files have been elaborated with [Atelier B 4.6+](https://www.atelierb.eu/en/down
 
 ## Videos list
 
-Below are the videos (planned to be) recorded:
+Below are the videos (planned to be, but not sorted) recorded:
 - [x] Marketing (00) 
 - [x] B in a nutshell (01)
 - [x] Create a project (02)
-- [ ] From spec to code (03)
+- [x] From spec to code (03)
+- [ ] The model editor (04)
 - [ ] Archive and restore project
 - [ ] Extending the tool with extension points
 - [ ] Tool most important directories
 - [ ] Using libraries
 - [ ] Using definitions
-- [ ] The model editor
+- [ ] Using local operations
+- [ ] Using records
 - [ ] The mathematical rule editor
 - [ ] The proof tactic editor
 - [ ] Software modeling versus system modeling
-- [ ] Generating C code
+- [ ] Generating C code for component and project
 - [ ] Using C translation profiles
 - [ ] Introduction to the proof
 - [ ] Introduction to the interactive proof
@@ -47,7 +49,7 @@ Below are the videos (planned to be) recorded:
 - [ ] Introduction to the CSSP CS0
 - [ ] Specifics of a CSSP CS0 project
 - [ ] Introduction to the system modeling
-- [ ] Strcturing system models
+- [ ] Structuring system models
 
 
 ## Licence
