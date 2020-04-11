@@ -20,6 +20,7 @@ Below are the videos (planned to be, but not sorted) recorded:
 - [x] B in a nutshell (01)
 - [x] Create a project (02)
 - [x] From spec to code (03)
+- [ ] The model editor (04)
 - [ ] Archive and restore project
 - [ ] Extending the tool with extension points
 - [ ] Tool most important directories
@@ -27,7 +28,6 @@ Below are the videos (planned to be, but not sorted) recorded:
 - [ ] Using definitions
 - [ ] Using local operations
 - [ ] Using records
-- [ ] The model editor
 - [ ] The mathematical rule editor
 - [ ] The proof tactic editor
 - [ ] Software modeling versus system modeling
