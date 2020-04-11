@@ -2,8 +2,12 @@ MACHINE
     CTX
 SETS
     STATUS = {e0, e1, e2, e3}
-CONSTANTS
+ABSTRACT_CONSTANTS
+    NEXT
+CONCRETE_CONSTANTS
     S0
 PROPERTIES
-    S0 : STATUS
+    NEXT : STATUS <-> STATUS &
+    NEXT = {e0 |-> e1, e1 |-> e2, e2 |-> e3, e3 |-> e0} &
+    S0: STATUS
 END

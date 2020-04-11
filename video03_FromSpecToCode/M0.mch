@@ -10,6 +10,7 @@ INITIALISATION
 OPERATIONS
     operate =
     BEGIN
-        status :(status : STATUS & not(status = status$0))
+        status :: NEXT[{status}] 
     END
+    
 END

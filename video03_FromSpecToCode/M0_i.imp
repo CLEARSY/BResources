@@ -1,4 +1,3 @@
-
 IMPLEMENTATION M0_i
 REFINES M0
 SEES CTX
@@ -6,18 +5,17 @@ SEES CTX
 CONCRETE_VARIABLES
     status
 //LOCAL_OPERATIONS
-//    vv <-- next(p1) =
+//    vv <-- opnext(p1) =
 //    PRE p1: STATUS THEN
-//        vv :(vv : STATUS & not(vv = p1))
+//        vv :: NEXT[{p1}]
 //    END
-
 INITIALISATION
     status := S0
 OPERATIONS
-//    vv <-- next(p1) =
+//    vv <-- opnext(p1) =
 //    BEGIN
 //        IF p1 = e0 THEN
-//            vv := e1 
+//            vv := e1
 //        ELSIF p1 = e1 THEN
 //            vv := e2
 //        ELSIF p1 = e2 THEN
@@ -26,7 +24,6 @@ OPERATIONS
 //            vv := e0
 //        END    
 //    END;
-    
     operate =
     BEGIN
         status <-- LIB_next(status) 
