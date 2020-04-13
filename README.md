@@ -21,6 +21,9 @@ Below are the videos (planned to be, but not sorted) recorded:
 - [x] Create a project (02)
 - [x] From spec to code (03)
 - [ ] The model editor (04)
+- [ ] Introduction to the proof (05)
+- [ ] Introduction to code generation (06)
+- [ ] Introduction to modeling (07)
 - [ ] Archive and restore project
 - [ ] Extending the tool with extension points
 - [ ] Tool most important directories
@@ -31,9 +34,7 @@ Below are the videos (planned to be, but not sorted) recorded:
 - [ ] The mathematical rule editor
 - [ ] The proof tactic editor
 - [ ] Software modeling versus system modeling
-- [ ] Generating C code for component and project
 - [ ] Using C translation profiles
-- [ ] Introduction to the proof
 - [ ] Introduction to the interactive proof
 - [ ] The command SearchRule
 - [ ] The command SearchHypothesis
