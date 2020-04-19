@@ -27,6 +27,7 @@ Below are the videos (planned to be, but not sorted) recorded:
 - [ ] Introduction to modeling (08)
 - [ ] Extending the tool with extension points
 - [ ] Tool most important directories
+- [ ] Project metrics
 - [ ] Using libraries
 - [ ] Using definitions
 - [ ] Using local operations
