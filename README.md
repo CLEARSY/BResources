@@ -32,24 +32,24 @@ Below are the videos (planned to be, but not sorted) recorded:
 - [ ] Using local operations
 - [ ] Using records
 - [ ] Using manifest file
-- [ ] The mathematical rule editor
-- [ ] The proof tactic editor
-- [ ] Software modeling versus system modeling
-- [ ] Using C translation profiles
+- [ ] Understanding the Main Prover
+- [ ] Proving well definedness
 - [ ] Introduction to the interactive proof
+- [ ] Presentation of the interactive commands
 - [ ] The command SearchRule
 - [ ] The command SearchHypothesis
-- [ ] Adding and using external provers
-- [ ] Proving well definedness
+- [ ] The mathematical rule editor
 - [ ] Writing a mathematical rule
 - [ ] Proving a mathematical rule
-- [ ] Understanding the Main Prover
-- [ ] Presentation of the interactive commands
+- [ ] The proof tactic editor
+- [ ] Adding and using external provers
 - [ ] Adding ProB as an external prover
+- [ ] Using C translation profiles
 - [ ] Introduction to the CSSP SK0 SK1
 - [ ] Specifics of a CSSP SK0 SK1 project
 - [ ] Introduction to the CSSP CS0
 - [ ] Specifics of a CSSP CS0 project
+- [ ] Software modeling versus system modeling
 - [ ] Introduction to the system modeling
 - [ ] Structuring system models
 
