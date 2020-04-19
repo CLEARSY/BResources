@@ -21,16 +21,17 @@ Below are the videos (planned to be, but not sorted) recorded:
 - [x] Create a project (02)
 - [x] From spec to code (03)
 - [ ] The model editor (04)
-- [ ] Introduction to the proof (05)
-- [ ] Introduction to code generation (06)
-- [ ] Introduction to modeling (07)
-- [ ] Archive and restore project
+- [ ] Archive and restore project (05)
+- [ ] Introduction to the proof (06)
+- [ ] Introduction to code generation (07)
+- [ ] Introduction to modeling (08)
 - [ ] Extending the tool with extension points
 - [ ] Tool most important directories
 - [ ] Using libraries
 - [ ] Using definitions
 - [ ] Using local operations
 - [ ] Using records
+- [ ] Using manifest file
 - [ ] The mathematical rule editor
 - [ ] The proof tactic editor
 - [ ] Software modeling versus system modeling
