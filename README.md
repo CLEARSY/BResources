@@ -21,34 +21,36 @@ Below are the videos (planned to be, but not sorted) recorded:
 - [x] Create a project (02)
 - [x] From spec to code (03)
 - [ ] The model editor (04)
-- [ ] Introduction to the proof (05)
-- [ ] Introduction to code generation (06)
-- [ ] Introduction to modeling (07)
-- [ ] Archive and restore project
+- [ ] Archive and restore project (05)
+- [ ] Introduction to the proof (06)
+- [ ] Introduction to code generation (07)
+- [ ] Introduction to modeling (08)
 - [ ] Extending the tool with extension points
 - [ ] Tool most important directories
+- [ ] Project metrics
 - [ ] Using libraries
 - [ ] Using definitions
 - [ ] Using local operations
 - [ ] Using records
-- [ ] The mathematical rule editor
-- [ ] The proof tactic editor
-- [ ] Software modeling versus system modeling
-- [ ] Using C translation profiles
+- [ ] Using manifest file
+- [ ] Understanding the Main Prover
+- [ ] Proving well definedness
 - [ ] Introduction to the interactive proof
+- [ ] Presentation of the interactive commands
 - [ ] The command SearchRule
 - [ ] The command SearchHypothesis
-- [ ] Adding and using external provers
-- [ ] Proving well definedness
+- [ ] The mathematical rule editor
 - [ ] Writing a mathematical rule
 - [ ] Proving a mathematical rule
-- [ ] Understanding the Main Prover
-- [ ] Presentation of the interactive commands
+- [ ] The proof tactic editor
+- [ ] Adding and using external provers
 - [ ] Adding ProB as an external prover
+- [ ] Using C translation profiles
 - [ ] Introduction to the CSSP SK0 SK1
 - [ ] Specifics of a CSSP SK0 SK1 project
 - [ ] Introduction to the CSSP CS0
 - [ ] Specifics of a CSSP CS0 project
+- [ ] Software modeling versus system modeling
 - [ ] Introduction to the system modeling
 - [ ] Structuring system models
 
