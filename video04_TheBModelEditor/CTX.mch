@@ -1,0 +1,12 @@
+MACHINE
+    CTX
+SETS
+    ST = {VAL0, VAL1, VAL2};
+    DATA
+CONSTANTS
+    C0,
+    V0
+PROPERTIES
+    C0 <: DATA &
+    V0 : C0
+END

@@ -1,0 +1,18 @@
+IMPLEMENTATION M0_i
+REFINES M0
+
+SEES CTX
+IMPORTS M1, M2
+INITIALISATION
+    v0 := V0 ;  
+    v1 := V0 ;  
+    v2 := V0
+
+OPERATIONS
+    M0_op1 =
+    BEGIN
+       v0, v1 <-- M1_swap(v0, v1);
+       M2_op
+   END
+
+ END
